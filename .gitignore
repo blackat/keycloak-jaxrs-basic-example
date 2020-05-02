@@ -1,2 +1,3 @@
-.idea/**
+.idea
 /keycloak-jaxrs-basic-example.iml
+target
