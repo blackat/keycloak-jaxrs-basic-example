@@ -1,4 +1,4 @@
-# Keycloak Jax-RS Example
+# Keycloak JAX-RS Example
 A simple example of REST service that uses external Keycloak authentication.
 
 In the example we will use OpenID Connect to secure the REST interface based on the `keycloak.json`, another method it is possible via WildFly `standalone.xml`, please refer to this [page](https://www.keycloak.org/docs/latest/securing_apps/#openid-connect-3) for more info.
