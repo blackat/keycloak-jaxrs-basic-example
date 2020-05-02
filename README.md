@@ -43,3 +43,13 @@ If you change some parameters like the port or the client name, you have the edi
 Connect to http://localhost:8080/farm-application/api/products to display some products.
 
 You should be redirect to keycloak and once authenticated, redericted to the products `json`.
+
+## References
+- [Keycloak Documentation](https://www.keycloak.org/documentation)
+- [Keycloak OpenID](https://www.keycloak.org/docs/latest/securing_apps/#openid-connect-3)
+- [Keycloak on Docker](https://www.keycloak.org/getting-started/getting-started-docker)
+- [Keycloak Docker image](https://github.com/keycloak/keycloak-containers/blob/master/server/README.md)
+- [Keycloak QuickStarts projects](https://github.com/keycloak/keycloak-quickstarts)
+- [Keycloak basic deployment](https://www.keycloak.org/docs/latest/getting_started/index.html#_install-boot)
+- [Authentication code flows](https://openid.net/specs/openid-connect-core-1_0.html#CodeFlowAuth)
+- [A tutorial with example](https://medium.com/@siweheee/keycloak-a-real-scenario-from-development-to-production-ce57800e3ba9)
