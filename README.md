@@ -38,3 +38,8 @@ Clone the repository, produce the `.war` file and deploy it into your WildFly 11
 
 #### `keycloak.json`
 If you change some parameters like the port or the client name, you have the edit the configuration file accordingly.
+
+## Connect to the service
+Connect to http://localhost:8080/farm-application/api/products to display some products.
+
+You should be redirect to keycloak and once authenticated, redericted to the products `json`.
